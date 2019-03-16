@@ -16,7 +16,7 @@ Click the respctive projects to read the description.
 
 4. <a href="https://github.com/skunkworksneu/Projects/blob/master/Hyperparameter%20Database.pdf">Hyperparameter Database</a>
 
-5. <a href="https://github.com/skunkworksneu/Projects/blob/master/Social%20Butterfly.pdf">Jobs Database</a>
+5. <a href="https://github.com/skunkworksneu/Projects/blob/master/Jobs%20Database.pdf">Jobs Database</a>
 
 6. <a href="https://github.com/skunkworksneu/Projects/blob/master/Social%20Butterfly.pdf">Social Butterfly</a>
 
