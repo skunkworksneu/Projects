@@ -1,14 +1,12 @@
 # Skunkworks Projects
 <center>
-  <img src="Images/Rikskunk2_Trans.png" width="100" align="center"/>
+  <img src="Images/Rikskunk2_Trans.png" width="100" align="middle"/>
 </center>
 Above are the projects that the Skunkworks are working. The documents are the specification for each of project - with their descriptions, scope, and what kind of tasks will be available to work for in it. Kindly go through the mentioned for the scope of the project - long term, short term and what kind of tasks will be provided, and details of pre-requirements to join the project. 
 
-Below are the index:
+Below is the list. Choose them wisely:
 
 Click the respctive projects to read the description.
-
----------------------------------------------------
 
 1. <a href="https://github.com/skunkworksneu/Projects/blob/master/AI-addin.pdf">AI-Addin</a>
 
