@@ -24,4 +24,4 @@ Click the respctive projects to read the description.
 
 8. <a href="https://github.com/skunkworksneu/Projects/blob/master/Spark%20and%20TF%20-%20Time%20Series%20models.pdf">Spark and TF - Time series models</a>
 
-
+Kindly get in touch with the respective project managers to join them. Thank you.
