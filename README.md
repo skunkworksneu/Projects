@@ -8,19 +8,19 @@ Below are the list. Choose them wisely:
 
 Click the respctive projects to read the description.
 
-1. <a href="https://github.com/skunkworksneu/Projects/blob/master/AI-addin.pdf">AI-Addin</a>
+1. <a href="">AI-Addin - (Hiatus for Summer)</a>
 
 2. <a href="https://github.com/skunkworksneu/Projects/blob/master/Capsule%20Networks.pdf">Capsule Networks</a>
 
-3. <a href="https://github.com/skunkworksneu/Projects/blob/master/DeepFakes.pdf">Deep Fake</a>
+3. <a href="">Deep Fake - (Hiatus for Summer)</a>
 
 4. <a href="https://github.com/skunkworksneu/Projects/blob/master/Hyperparameter%20Database.pdf">Hyperparameter Database</a>
 
-5. <a href="https://github.com/skunkworksneu/Projects/blob/master/Jobs%20Database.pdf">Jobs Database</a>
+5. <a href="">Jobs Database - (Hiatus for Summer)</a>
 
 6. <a href="https://github.com/skunkworksneu/Projects/blob/master/Social%20Butterfly.pdf">Social Butterfly</a>
 
-7. <a href="https://github.com/skunkworksneu/Projects/blob/master/Spark%20and%20TF%20-%20Statistical%20models.pdf">Spark and TF - Statistical models</a>
+7. <a href="">Spark and TF - Statistical models - (Hiatus for Summer)</a>
 
 8. <a href="https://github.com/skunkworksneu/Projects/blob/master/Spark%20and%20TF%20-%20Time%20Series%20models.pdf">Spark and TF - Time series models</a>
 
