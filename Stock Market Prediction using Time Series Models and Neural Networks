@@ -1,0 +1,5 @@
+This project deals with stock markert predictions in the time series domain using various models-ARIMA, Fourier series, Exponential Moving Average, Simple MOving Average
+
+The project also uses Neural Networks(LSTM and GANs) to try to predict stock prices and stock price movement. 
+
+Performed during Summer 2019
